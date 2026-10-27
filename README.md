@@ -6,4 +6,4 @@
 - 🏭 **[Industrial sound classification for REPSOL](https://github.com/SEANIMALMOVE/REPSOL)**: 8 sound classes, 4 CNN architectures and an ablation study separating a data-pipeline fix from model improvements. MobileNetV3-Large reaches **86.5 % test accuracy**, up from a 70 % baseline.
 - 🛠️ Python · PyTorch · torchaudio · scikit-learn · HDBSCAN/UMAP · Jupyter
 - 🎓 Currently doing an MSc in Artificial Intelligence at the Budapest University of Technology and Economics.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mate-benedek-lovas/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mate-benedek-lovas/) or https://lovasmatebenedek@gmail.com
